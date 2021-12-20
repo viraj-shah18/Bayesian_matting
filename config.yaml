@@ -1,0 +1,6 @@
+img_name: "GT06.png"
+img_folder: "input_training_lowres"
+trimap_folder: 'trimap_training_lowres'
+gt_folder: "gt_training_lowres"
+output_folder: "results"
+output_name: "alpha_map.jpg"
